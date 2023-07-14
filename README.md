@@ -1,5 +1,7 @@
 # About
 
+Please check out my blog about this repo [here](https://harrywang.me/mvp).
+
 This is my revised version of the sample chatbot kickstarter provided by OpenAI at https://github.com/openai/openai-cookbook/tree/main/apps/chatbot-kickstarter, which shows how you can create apps using ChatGPT and your own data.
 
 This sample app shows a common architecture used for many ChatGPT-based apps, which I want to call:
